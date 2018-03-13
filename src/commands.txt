@@ -1,0 +1,82 @@
+    1  pwd
+    2  cd D:
+    3  pwd
+    4  cd GIT/Tester\'SRepo/
+    5  git init
+    6  git branch frg
+    7  git branch frg_branch
+    8  git commit --allow-empty
+    9  PWD
+   10  cd ..
+   11  cd d
+   12  cd d:
+   13  cd GIT/Tester\'SRepo/
+   14  cd ..
+   15  CD Tester\'SRepo/
+   16  cd d:
+   17  cd GIT/
+   18  cd Tester\'SRepo/
+   19  git checkout fgr
+   20  git branch
+   21  git fetch https://github.com/renuka-sethi/demoproject.git
+   22  vi .git/config 
+   23  ls
+   24  cd .git/
+   25  vi config 
+   26  cd ..
+   27  cd ..
+   28  mkdir fgr
+   29  ls
+   30  cd fgr
+   31  git init
+   32  vi .git/config 
+   33  git config --global user.email "renuka.sethi@smartlearning.com"
+   34  git config --global user.name "Renuka Sethi"
+   35  git config --user.email
+   36  git config --globaluser.email
+   37  git config --global user.email
+   38  git config --global user.name
+   39  vi .git/config 
+   40  git clone https://github.com/renuka-sethi/demoproject.git
+   41  pwd
+   42  git pull demoproject/
+   43  ls
+   44  rm -rf *
+   45  ls
+   46  git fetch https://github.com/renuka-sethi/demoproject.git
+   47  git show branches
+   48  git show branch
+   49  git remote add https://github.com/renuka-sethi/demoproject.git
+   50  git remote --fetch https://github.com/renuka-sethi/demoproject.git
+   51  vi .git/config 
+   52  git remote set-url https://github.com/renuka-sethi/demoproject.git
+   53  git remote set-url -add Renuka Sethi https://github.com/renuka-sethi/demoproject.git
+   54  git remote set-url --add Renuka Sethi https://github.com/renuka-sethi/demoproject.git
+   55  git remote set-url --add  https://github.com/renuka-sethi/demoproject.git
+   56  git remote -v
+   57  git remote add origin https://github.com/renuka-sethi/demoproject.git
+   58  guit remote -v
+   59  git remote -v
+   60  vi .git/config 
+   61  git fetch https://github.com/renuka-sethi/demoproject.git
+   62  git status
+   63  git checkout master
+   64  ls
+   65  git pull origin 
+   66  ls
+   67  git pull origin limgmt 
+   68  ls
+   69  git checkout limgmt 
+   70  ls
+   71  vi samplefile.txt 
+   72  git push origin samplefile.txt
+   73  vi .git/config 
+   74  git push origin samplefile.txt
+   75  git push origin limgmt 
+   76  git add samplefile.txt
+   77  git commmit -m "added name in file"
+   78  git commit -m "added name in file"
+   79  git remote add origin https://github.com/renuka-sethi/demoproject.git
+   80  git push  origin limgmt 
+   81  history
+   82  history >> commands.txt
